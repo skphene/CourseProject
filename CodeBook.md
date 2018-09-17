@@ -34,6 +34,7 @@ Clean up column (variable) names using gsub() function
 
 ### Create tidy data set with the average of each variable for each activity and each subject
 avg_mean_std : Means of each variable by subject and activity using ddply function
+
 Write out avg_mean_std table as a .txt file called tidydata.txt
 
 
