@@ -1,7 +1,7 @@
 ### run_analysis.R and UCIHARDataset
 
 ### Read in data from UCIHARDataset into R and Merge into single table 
-features : description(label) of each variables in X_test and X_train
+features : Description(label) of each variables in X_test and X_train
 
 activity_labels : Description of activity IDs in y_test and y_train
 
