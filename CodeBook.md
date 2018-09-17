@@ -2,15 +2,25 @@
 
 ### Read in data from UCIHARDataset into R and Merge into single table 
 features : description(label) of each variables in X_test and X_train
+
 activity_labels : Description of activity IDs in y_test and y_train
+
 subject_train : subject IDs for train
+
 X_train : values of variables in train
+
 y_train : activity ID in train
+
 subject_test : subject IDs for test
+
 X_test : values of variables in test
+
 y_test : activity ID in test
+
 train_data : bind of y_train, subject_train, X_train data sets
+
 test_data : bind of y_test, subject_test, X_test data sets
+
 final_data : bind of test and train data sets
 
 ### Extract only measurements on the mean and standard deviation
